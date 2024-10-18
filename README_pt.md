@@ -24,7 +24,10 @@ Sou um profissional proativo, criativo e colaborativo, com a capacidade de traba
 Aproveitar minha expertise em Ciência de Dados para gerar valor, otimizar processos e impulsionar a inovação dentro das organizações.
 
 ### Habilidades
-![Análise de Dados](https://img.icons8.com/color/48/000000/python.png) ![Análise de Dados](https://www.mysql.com.PNG) ![Análise de Dados](https://img.icons8.com/color/48/000000/aws.png) ![Análise de Dados](https://img.icons8.com/color/48/000000/machine-learning.png)
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"/> 
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48"/> 
+<img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" width="48"/> 
+<img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" width="48"/>
 
 ### Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/caua-gomes/)
