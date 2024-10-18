@@ -27,4 +27,4 @@ Aproveitar minha expertise em Ciência de Dados para gerar valor, otimizar proce
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"/> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48"/> 
 
 ### Redes Sociais
-- [LinkedIn](https://www.linkedin.com/in/caua-gomes/)
+- [LinkedIn](https://www.linkedin.com/in/cauã-gomes-456781210/)
