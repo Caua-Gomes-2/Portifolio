@@ -26,4 +26,4 @@ To leverage my Data Science expertise to generate value, optimize processes, and
 ### Skills
 ![Data Analysis](https://img.icons8.com/color/48/000000/python.png) ![Data Analysis](https://img.icons8.com/color/48/000000/sql.png) 
 ### Socials
-- [LinkedIn](https://www.linkedin.com/in/caua-gomes/)
+- [LinkedIn](https://www.linkedin.com/in/cauã-gomes-456781210/)
