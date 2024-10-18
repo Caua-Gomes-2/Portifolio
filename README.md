@@ -24,7 +24,6 @@ I am a proactive, creative, and collaborative professional, with the ability to 
 To leverage my Data Science expertise to generate value, optimize processes, and drive innovation within organizations.
 
 ### Skills
-![Data Analysis](https://img.icons8.com/color/48/000000/python.png) ![Data Analysis](https://img.icons8.com/color/48/000000/sql.png) ![Data Analysis](https://img.icons8.com/color/48/000000/aws.png) ![Data Analysis](https://img.icons8.com/color/48/000000/machine-learning.png)
-
+![Data Analysis](https://img.icons8.com/color/48/000000/python.png) ![Data Analysis](https://img.icons8.com/color/48/000000/sql.png) 
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/caua-gomes/)
