@@ -1,4 +1,4 @@
-# Hi, My name is Cauã Gomes
+# Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/user-attachments/assets/e1cbba7d-c0e0-4a88-a583-879e1015b865) My name is Cauã Gomes
 
 ## Data Analyst
 
