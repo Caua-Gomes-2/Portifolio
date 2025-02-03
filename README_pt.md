@@ -2,11 +2,12 @@
 
 ## Analista de Dados
 
-### Sobre mim
-Sou um profissional de Ciência de Dados com experiência em análise de dados e uma sólida base em várias tecnologias de dados. Minhas principais responsabilidades incluem analisar conjuntos de dados, construir relatórios interativos e automatizar processos. Meu objetivo é fornecer insights acionáveis por meio dos dados.
+### Traços Pessoais
+Sou um profissional proativo, criativo e colaborativo, com a capacidade de trabalhar em equipe e resolver problemas complexos. Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para a inovação e sucesso nos projetos em que estou envolvido.
 
-- Estou baseado no Brasil
-- Você pode me contatar pelo e-mail cauacesarmgomes@gmail.com
+### Sobre mim
+Sou um profissional de Ciência de Dados em análise de dados e uma sólida base em várias tecnologias de dados. Minhas principais responsabilidades incluem analisar conjuntos de dados, construir relatórios interativos e automatizar processos. Meu objetivo é fornecer insights acionáveis por meio dos dados.
+
 - Estou aprendendo Engenharia de Dados com Python
 
 ### Habilidades
@@ -17,8 +18,6 @@ Sou um profissional de Ciência de Dados com experiência em análise de dados e
 - **Visualização de Dados:** Ferramentas como Power BI e Streamlit para criar dashboards e aplicações interativas.
 - **Big Data:** Experiência com AWS para manipulação e análise de grandes conjuntos de dados.
 
-### Traços Pessoais
-Sou um profissional proativo, criativo e colaborativo, com a capacidade de trabalhar em equipe e resolver problemas complexos. Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para a inovação e sucesso nos projetos em que estou envolvido.
 
 ### Objetivo
 Aproveitar minha expertise em Ciência de Dados para gerar valor, otimizar processos e impulsionar a inovação dentro das organizações.
