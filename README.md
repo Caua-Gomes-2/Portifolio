@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o Cauã Gomes! </h1>
+<h1 align="center">Olá, eu sou o Cauã Gomes! 🦇</h1>
 
 <p align="center">
   <i>"Fique tranquilo, o tempo coloca cada rei no seu trono e cada palhaço no seu circo." – Coringa</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0NqUQw4zA4ic/giphy.gif" width="320" />
+  <img src="https://media1.tenor.com/m/fdWIZhNwAW4AAAAC/forced-smile-sad.gif" width="320" />
 </p>
 
 ---
