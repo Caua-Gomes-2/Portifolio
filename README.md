@@ -1,13 +1,11 @@
 <h1 align="center">Olá, eu sou o Cauã Gomes! 🦇</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="180" height="180" />
+  <i>"Fique tranquilo, o tempo coloca cada rei no seu trono e cada palhaço no seu circo." – Coringa</i>
 </p>
 
-<p align="center"><i>"Faça seus medos terem medo de você." – Batman</i></p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/L0NqUQw4zA4ic/giphy.gif" width="320" />
 </p>
 
 ---
