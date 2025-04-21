@@ -1,4 +1,8 @@
-<h1 align="center">Olá, eu sou o Cauã Gomes! </h1>
+<p align="center">
+  <img src="https://i.imgur.com/O6bIGgv.png" width="100" />
+</p>
+
+<h1 align="center">Olá, eu sou o Cauã Gomes! 🦇</h1>
 
 <p align="center">
   <i>"Fique tranquilo, o tempo coloca cada rei no seu trono e cada palhaço no seu circo." – Coringa</i>
@@ -10,24 +14,26 @@
 
 ---
 
-🎓 **Estudante de Análise de Dados pela EBAC** (conclusão prevista: 2025)  
-📍 Santo André - SP  
-💻 Apaixonado por dados, automações e soluções inteligentes  
-📈 Busco transformar informações em decisões estratégicas
+<p align="center">
+  <b>🎓 Estudante de Análise de Dados pela EBAC (conclusão prevista: 2025)<br/>
+  📍 Santo André - SP<br/>
+  💻 Apaixonado por dados, automações e soluções inteligentes<br/>
+  📈 Busco transformar informações em decisões estratégicas</b>
+</p>
 
 ---
 
-## 🛠️ Habilidades & Tecnologias
+## 🛠️ Ferramentas que me movem
 
-- **Linguagens:** Python, SQL, TypeScript
-- **Bibliotecas:** Pandas, NumPy, Seaborn, Matplotlib
-- **Ferramentas de Visualização:** Power BI, Tableau, Looker Studio
-- **Frontend:** React, Vite
+- **Linguagens:** Python, SQL, TypeScript  
+- **Bibliotecas:** Pandas, NumPy, Seaborn, Matplotlib  
+- **Ferramentas de Visualização:** Power BI, Tableau, Looker Studio  
+- **Frontend:** React, Vite  
 - **Outros:** MySQL, Excel Avançado, Google Sheets, ERP, TMS, Git, GitHub
 
 ---
 
-## 🚀 Projetos Pessoais
+## 🚀 Projetos em Destaque
 
 🔹 [Análise de Avaliações de Produtos](https://github.com/Caua-Gomes-2/Projeto_de_An-lise_de_Avalia-es_de_Produtos.git)  
 🔹 [Dashboard Financeiro com Python](https://github.com/Caua-Gomes-2/Projeto-de-Visualiza-o-de-Dados-com-Dash.git)  
@@ -59,6 +65,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Caua-Gomes-2&show_icons=true&theme=dracula" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Gomes-2&theme=dracula" />
+</p>
+
 ---
 
-<p align="center">🔥 Obrigado por visitar meu perfil! Vamos construir o futuro com dados e código. 🚀</p>
+<p align="center">
+  🔥 Obrigado por visitar meu perfil! Vamos construir o futuro com dados e código. 🚀
+</p>
