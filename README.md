@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/fdWIZhNwAW4AAAAC/forced-smile-sad.gif" width="100" alt="Gif do Coringa" />
+  <img src="https://camo.githubusercontent.com/592017f7b94aa0195d7ed768b2225bedd6bf625e66de55827da3ad88754fd10e/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457865576b324d47686e4e6a426b4d6a4635617a4e7a64576436636e646959577468647a526f4e575a7362474977646e706e4d326c7962795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3236784277644975524a694149714877412f67697068792e676966" width="120" alt="Gif do Coringa" />
 </div>
 
-<h1 align="center"> 🃏 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<h1 align="center"> 🂯 Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Estudante de Análise de Dados | Curioso por tecnologia, visualização e automações</i></p>
 
 ---
@@ -32,6 +32,14 @@ Sou movido por desafios, evolução contínua e pela vontade de impactar positiv
 
 ---
 
+## 🧹 Projetos em Destaque
+
+- 📊 [Dashboard Petshop (Looker Studio)](https://lookerstudio.google.com/s/w9K9vJuMrgA)  
+- 💡 [Painel de Vendas Automático](https://portifoliocauagomes.netlify.app/projetos/vendas-auto)  
+- 📈 [Análise de Dados com Python e Pandas](https://portifoliocauagomes.netlify.app/projetos/pandas-analise)
+
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Gomes-2&layout=compact&langs_count=20&theme=tokyonight" alt="Top linguagens" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Gomes-2&theme=tokyonight" alt="Contribuições GitHub" />
@@ -45,20 +53,19 @@ Sou movido por desafios, evolução contínua e pela vontade de impactar positiv
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Caua-Gomes-2/Caua-Gomes-2/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 ---
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
+> _"Fique tranquilo, o tempo coloca cada rei no seu trono e cada palhaço no seu circo."_  
+> — **Coringa**
 
-> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 💥  
-> — **Naruto Uzumaki**
-
-<br>
+<div align="right">
+  <img src="https://media1.tenor.com/m/fdWIZhNwAW4AAAAC/forced-smile-sad.gif" width="180" alt="Coringa" />
+</div>
 
 ---
 
 <div align="center">
-  <img align="middle" src="https://github.com/user-attachments/assets/44296890-aa50-4ab3-9f9c-fbf4dd8ed8bc" width="350" alt="Desenho de perfil" />
+  <img align="middle" src="https://raw.githubusercontent.com/Caua-Gomes-2/Caua-Gomes-2/main/assets/avatar-caua.png" width="350" alt="Avatar personalizado Cauã" />
 </div>
 <br>
 <p align="center"><i>Obrigado por visitar! ❤️</i></p>
