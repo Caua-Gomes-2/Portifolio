@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou o Cauã Gomes! 🦇</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQwzzJZWjZlCo/giphy.gif" width="120" height="120" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="180" height="180" />
 </p>
 
 <p align="center"><i>"Faça seus medos terem medo de você." – Batman</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yoJC2K6rCzwNY2EngA/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="320" />
 </p>
 
 ---
