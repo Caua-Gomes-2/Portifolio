@@ -7,7 +7,7 @@
 <p align="center"><i>"Faça seus medos terem medo de você." – Batman</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="240" />
+  <img src="https://media.giphy.com/media/yoJC2K6rCzwNY2EngA/giphy.gif" width="320" />
 </p>
 
 ---
