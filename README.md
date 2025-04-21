@@ -1,76 +1,64 @@
-<p align="center">
-  <img src="https://i.imgur.com/O6bIGgv.png" width="100" />
-</p>
+<div align="center">
+  <img src="https://media1.tenor.com/m/fdWIZhNwAW4AAAAC/forced-smile-sad.gif" width="100" alt="Gif do Coringa" />
+</div>
 
-<h1 align="center">Olá, eu sou o Cauã Gomes! 🦇</h1>
-
-<p align="center">
-  <i>"Fique tranquilo, o tempo coloca cada rei no seu trono e cada palhaço no seu circo." – Coringa</i>
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/fdWIZhNwAW4AAAAC/forced-smile-sad.gif" width="320" />
-</p>
+<h1 align="center"> 🃏 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Estudante de Análise de Dados | Curioso por tecnologia, visualização e automações</i></p>
 
 ---
 
-<p align="center">
-  <b>🎓 Estudante de Análise de Dados pela EBAC (conclusão prevista: 2025)<br/>
-  📍 Santo André - SP<br/>
-  💻 Apaixonado por dados, automações e soluções inteligentes<br/>
-  📈 Busco transformar informações em decisões estratégicas</b>
-</p>
+## 🌟 Sobre Mim
 
----
+<img align="right" alt="coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-## 🛠️ Ferramentas que me movem
+Eu sou o **Cauã Gomes**, entusiasta da análise de dados, dashboards interativos e automações. Atualmente estudo **Análise de Dados pela EBAC** e aplico meu conhecimento em projetos que conectam dados a soluções reais.
 
-- **Linguagens:** Python, SQL, TypeScript  
-- **Bibliotecas:** Pandas, NumPy, Seaborn, Matplotlib  
-- **Ferramentas de Visualização:** Power BI, Tableau, Looker Studio  
-- **Frontend:** React, Vite  
-- **Outros:** MySQL, Excel Avançado, Google Sheets, ERP, TMS, Git, GitHub
+Sou movido por desafios, evolução contínua e pela vontade de impactar positivamente com o que sei. 🤝📊
 
----
-
-## 🚀 Projetos em Destaque
-
-🔹 [Análise de Avaliações de Produtos](https://github.com/Caua-Gomes-2/Projeto_de_An-lise_de_Avalia-es_de_Produtos.git)  
-🔹 [Dashboard Financeiro com Python](https://github.com/Caua-Gomes-2/Projeto-de-Visualiza-o-de-Dados-com-Dash.git)  
-🔹 [PayFlow - Gerenciador de Transações](https://github.com/Caua-Gomes-2/PayFlow.git) | [Deploy](https://payfloww.netlify.app/)
-
----
-
-## 🌐 Contato
-
-<p align="center">
-  <a href="https://portifoliocauagomes.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+<div align="center">
+  <a href="https://portifoliocauagomes.netlify.app">
+    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:cauacesarmgomes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a> 
+  <a href="https://www.linkedin.com/in/cauã-gomes/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/cauã-gomes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://wa.me/5511982236609">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://wa.me/5511982236609" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Gomes-2&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Gomes-2&show_icons=true&theme=dracula" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Gomes-2&layout=compact&langs_count=20&theme=tokyonight" alt="Top linguagens" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Gomes-2&theme=tokyonight" alt="Contribuições GitHub" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Gomes-2&theme=dracula" />
-</p>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caua-Gomes-2/Caua-Gomes-2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caua-Gomes-2/Caua-Gomes-2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Caua-Gomes-2/Caua-Gomes-2/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
+
+> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 💥  
+> — **Naruto Uzumaki**
+
+<br>
 
 ---
 
-<p align="center">
-  🔥 Obrigado por visitar meu perfil! Vamos construir o futuro com dados e código. 🚀
-</p>
+<div align="center">
+  <img align="middle" src="https://github.com/user-attachments/assets/44296890-aa50-4ab3-9f9c-fbf4dd8ed8bc" width="350" alt="Desenho de perfil" />
+</div>
+<br>
+<p align="center"><i>Obrigado por visitar! ❤️</i></p>
