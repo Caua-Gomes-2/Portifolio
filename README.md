@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Cauã Gomes! 🦇</h1>
+<h1 align="center">Olá, eu sou o Cauã Gomes! </h1>
 
 <p align="center">
   <i>"Fique tranquilo, o tempo coloca cada rei no seu trono e cada palhaço no seu circo." – Coringa</i>
